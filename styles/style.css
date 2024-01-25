@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(231, 226, 188);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-size: 300%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+#bio {
+    width: 50%;
+    font-size: larger;
+    line-height: 200%;
+    text-align: justify;
+    padding: 10px 10px 10px 25px;
+}
+
+figure {
+    padding-left: 50%;
+}
+
+#main-page {
+    display: inline-flex;
+}
+
+#travis {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 30px;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    margin-bottom: 30px;
+    background-color: #4CAF50;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/*
+p {
+    color: blue;
+}
+
+#main {
+    color: red;
+}
+
+.A {
+    color: green;
+}
+*/
